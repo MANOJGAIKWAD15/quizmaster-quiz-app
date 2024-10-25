@@ -1,1 +1,1 @@
-# quizmaster-quiz-app
+# GM-quiz-app
